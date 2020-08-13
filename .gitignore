@@ -1,0 +1,12 @@
+/vendor
+/_site/*
+/.sass-cache
+
+!.gitkeep
+
+.DS_Store
+
+.rbenv-version
+.rvmrc
+
+.jekyll-cache/*
