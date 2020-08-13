@@ -1,4 +1,4 @@
-# personal-website
+# quaini.io
 My personal website/blog
 
 ## LICENSE
