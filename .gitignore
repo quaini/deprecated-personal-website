@@ -1,12 +1,5 @@
-/vendor
-/_site/*
-/.sass-cache
-
-!.gitkeep
-
-.DS_Store
-
-.rbenv-version
-.rvmrc
-
-.jekyll-cache/*
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
