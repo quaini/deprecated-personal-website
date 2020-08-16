@@ -6,4 +6,4 @@ The content and code of quaini.io by Ian Quain are licensed under [Creative Comm
 
 ## References
 
-Getting Started Tutorial - Mike Dane's [Jekyll - Static Site Generator Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+Getting Started with Jekyll - Mike Dane's [Jekyll - Static Site Generator Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
