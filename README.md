@@ -1,13 +1,16 @@
 # quaini.io
-My personal website and blog built with Jekyll.
+My personal website and blog built with Jekyll and Bootstrap 4.
 
 ## License
 The content and code of quaini.io by Ian Quain are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) and made available on [GitHub](https://www.github.com/quaini/personal-website). Portions of the code are derived in whole or in part from other software, each with its own respective license appropriately referenced or included. Please contact Ian Quain *insert email* with any questions or concerns regarding usage of third-party software or code within this project. Content may be made available for commercial use under a dual-license model at the author’s discretion. Please contact Ian Quain *insert email* for more information.
 
 ## Resources
 
-Jekyll
-Bootstrap
+| Name | Source | License |
+| :--- | :--- | :--- |
+| Jekyll | [Here](https://jekyllrb.com/) | MIT License |
+| Bootstrap 4.5 | [Here](https://getbootstrap.com/) | MIT License |
+| Jekyll SEO Tag | [Here](https://github.com/jekyll/jekyll-seo-tag) | MIT License |
 
 ## Recommendations
 Interested in making a developer website and blog like mine? Here are some learning resources that I recommend and used myself.
