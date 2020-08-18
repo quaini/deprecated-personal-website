@@ -6,8 +6,11 @@ The content and code of quaini.io by Ian Quain are licensed under [Creative Comm
 
 ## Resources
 
-Jekyll
-Bootstrap
+| Tech              | Source         | License       |
+| :---              | :---           | :---          |
+| Jekyll            | git status     | git status    |
+| Bootstrap         | git diff       | git diff      |
+| Bootstrap SEO Tag | [Here](https://github.com/jekyll/jekyll-seo-tag) | MIT License     |
 
 ## Recommendations
 Interested in making a developer website and blog like mine? Here are some learning resources that I recommend and used myself.
