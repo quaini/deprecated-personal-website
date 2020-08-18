@@ -8,8 +8,8 @@ The content and code of quaini.io by Ian Quain are licensed under [Creative Comm
 
 | Name | Source | License |
 | :--- | :--- | :--- |
-| Jekyll | git status | git status |
-| Bootstrap | git diff | git diff |
+| Jekyll | [Here](https://jekyllrb.com/) | MIT License |
+| Bootstrap 4.5 | [Here](https://getbootstrap.com/) | MIT License |
 | Jekyll SEO Tag | [Here](https://github.com/jekyll/jekyll-seo-tag) | MIT License |
 
 ## Recommendations
