@@ -8,9 +8,9 @@ The content and code of quaini.io by Ian Quain are licensed under [Creative Comm
 
 | Name | Source | License |
 | :--- | :--- | :--- |
-| Jekyll | [Here](https://jekyllrb.com/) | MIT License |
-| Bootstrap 4.5 | [Here](https://getbootstrap.com/) | MIT License |
-| Jekyll SEO Tag | [Here](https://github.com/jekyll/jekyll-seo-tag) | MIT License |
+| Jekyll | [Here](https://jekyllrb.com/) | [MIT License](https://github.com/jekyll/jekyll/blob/master/LICENSE) |
+| Bootstrap 4.5 | [Here](https://getbootstrap.com/) | [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE) |
+| Jekyll SEO Tag | [Here](https://github.com/jekyll/jekyll-seo-tag) | [MIT License](https://github.com/jekyll/jekyll-seo-tag/blob/master/LICENSE.txt) |
 
 ## Recommendations
 Interested in making a developer website and blog like mine? Here are some learning resources that I recommend and used myself.
