@@ -6,7 +6,7 @@ The content and code of quaini.io by Ian Quain are licensed under [Creative Comm
 
 ## Resources
 
-| Tech              | Source         | License       |
+| Name              | Source         | License       |
 | :---              | :---           | :---          |
 | Jekyll            | git status     | git status    |
 | Bootstrap         | git diff       | git diff      |
