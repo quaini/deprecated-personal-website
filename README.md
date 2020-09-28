@@ -10,6 +10,7 @@ The content and code of quaini.io by Ian Quain are licensed under [Creative Comm
 | :--- | :--- | :--- |
 | Jekyll | [Here](https://jekyllrb.com/) | [MIT License](https://github.com/jekyll/jekyll/blob/master/LICENSE) |
 | Bootstrap 4.5 | [Here](https://getbootstrap.com/) | [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE) |
+| Zest Social Icons | [Here](https://zesticons.com/) | [MIT License](https://github.com/32pixelsCo/zest-icons/blob/master/packages/zest-social/LICENSE.md) |
 | Jekyll SEO Tag | [Here](https://github.com/jekyll/jekyll-seo-tag) | [MIT License](https://github.com/jekyll/jekyll-seo-tag/blob/master/LICENSE.txt) |
 
 ## Resources
