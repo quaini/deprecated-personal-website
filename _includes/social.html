@@ -1,8 +1,20 @@
-{%- assign social = site.minima.social_links -%}
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="author" content="Ian Quain">
+        <title>Zest Social Icons</title>
+
+        <!-- Custom styles for this template -->
+        <link href="assets/quaini/icons.css" rel="stylesheet">
+    </head>
+
 
 <ul class="social-media-list">
-    {%- if social.linkedin -%}<li><a rel="me" href="https://www.linkedin.com/in/ianquain{{ social.linkedin | cgi_escape | escape }}" title="{{ social.linkedin | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/zest-social/images/brands/linkedin.svg#linkedin' | relative_url }}"></use></svg></a></li>{%- endif -%}
-    {%- if social.github -%}<li><a rel="me" href="https://github.com/quaini{{ social.github | cgi_escape | escape }}" title="{{ social.github | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/zest-social/images/brands/github.svg#github' | relative_url }}"></use></svg></a></li>{%- endif -%}
-    {%- if social.stackoverflow -%}<li><a rel="me" href="https://stackoverflow.com/users/{{ social.stackoverflow | cgi_escape | escape }}" title="{{ social.stackoverflow | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/zest-social/images/brands/stackoverflowgithub.svg#stackoverflow' | relative_url }}"></use></svg></a></li>{%- endif -%}
-    {%- if social.youtube_channel -%}<li><a rel="me" href="https://www.youtube.com/channel/{{ social.youtube_channel | cgi_escape | escape }}" title="{{ social.youtube_channel_name | escape | default: 'YouTube' }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/zest-social/images/brands/youtube.svg#youtube' | relative_url }}"></use></svg></a></li>{%- endif -%}
+    <li><a rel="me" href="https://www.linkedin.com/in/ianquain" title="linkedin"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/zest-social/images/brands/linkedin.svg#linkedin' | relative_url }}"></use></svg></a></li>
+    <li><a rel="me" href="https://github.com/quaini" title="github"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/zest-social/images/brands/github.svg#github' | relative_url }}"></use></svg></a></li>
+    <li><a rel="me" href="https://stackoverflow.com/users/" title="stackoverflow"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/zest-social/images/brands/stack-overflow.svg#stackoverflow' | relative_url }}"></use></svg></a></li>
+    <li><a rel="me" href="https://www.youtube.com/channel/" title="youtube""><svg class="svg-icon grey"><use xlink:href="{{ '/assets/zest-social/images/brands/youtube.svg#youtube' | relative_url }}"></use></svg></a></li>
 </ul>
+</html>
