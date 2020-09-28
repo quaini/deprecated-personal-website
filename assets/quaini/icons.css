@@ -1,12 +1,12 @@
-.grey {
-    color: #828282;
+a.svg {
+    position: relative;
+    display: inline-block; 
 }
-
-.svg-icon {
-    width: 16px;
-    height: 16px;
-    display: inline-block;
-    fill: currentColor;
-    padding: 5px 3px 2px 5px;
-    vertical-align: text-bottom;
+a.svg:after {
+    content: ""; 
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left:0;
 }
