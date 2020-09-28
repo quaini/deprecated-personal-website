@@ -1,12 +1,17 @@
-a.svg {
-    position: relative;
-    display: inline-block; 
+.social-icons {
+    text-align: center;
 }
-a.svg:after {
-    content: ""; 
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left:0;
+.social-icons li {
+    display:inline-block;
+    list-style-type:none;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+}
+.social-icons li a {
+    border-bottom: none;
+}
+.social-icons li img {
+    width:70px;
+    height:70px;
+    margin-right: 20px;
 }
