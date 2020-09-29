@@ -1,5 +1,6 @@
 .social-icons {
-    text-align: center;
+    margin: 0 auto;
+    padding-top: 10px;
 }
 .social-icons li {
     display:inline-block;
@@ -13,5 +14,8 @@
 .social-icons li img {
     width:70px;
     height:70px;
-    margin-right: 20px;
+}
+ul {
+    padding: 0;
+    margin: 0;
 }
