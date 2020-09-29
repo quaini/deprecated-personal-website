@@ -5,5 +5,7 @@
     bottom: 0;
 }
 p {
-    font-size: 80.0%;
+    font-size: 75.0%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
