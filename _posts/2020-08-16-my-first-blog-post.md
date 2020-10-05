@@ -1,6 +1,6 @@
 ---
 title: "new title"
-categories: chess
+categories: blog
 permalink: /:categories/:title
 ---
 
