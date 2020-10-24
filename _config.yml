@@ -4,7 +4,6 @@
 
 title: Ian Quain
 first_name: Ian
-middle_name: M.
 last_name: Quain
 description: >- # ignore newlines
   Ian Quain's personal archive. Built to serve as a developer portfolio and blog.
@@ -26,12 +25,6 @@ github: https://github.com/quaini
 linkedin: https://www.linkedin.com/in/ianquain/
 stackoverflow: https://stackoverflow.com/users/
 youtube: https://www.youtube.com/channel/
-
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-
-permalink: /blog/:title/
 
 # -----------------------------------------------------------------------------
 # Collections
