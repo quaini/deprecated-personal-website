@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 # Social integration
 # -----------------------------------------------------------------------------
 
-email: you@example.com
+email: ian@quaini.io
 github: https://github.com/quaini
 linkedin: https://www.linkedin.com/in/ianquain/
 stackoverflow: https://stackoverflow.com/users/
