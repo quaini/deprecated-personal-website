@@ -1,8 +1,9 @@
 ---
-title: "School 1"
+layout: project
+title: "Animator"
+date: 2020-11-14
 categories: projects school
 permalink: /:categories/:title
 ---
 
-
-school 1
+here
