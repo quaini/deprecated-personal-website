@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Sample Personal Project"
 categories: projects personal
 permalink: /:categories/:title
