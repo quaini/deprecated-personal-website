@@ -3,16 +3,20 @@ layout: page
 title: Blog - Ian Quain
 permalink: /blog
 ---
-
-This is my blog
-
-<ul>
-    {% for post in site.posts %}
-    <li>
-        <a href="{{ post.url }}">
-            {{ post.title }}
-        </a>
-        - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    </li>
-    {% endfor %}
-</ul>
+<div class="row">
+    <div class="col-3"></div>
+    <div class="col-6">
+        <h5>Me Talking to Myself</h5>
+        <br></br>
+        <h3>Personal</h3>
+        <hr></hr>
+        <ul>
+            {% for post in site.categories.blog %}
+            {% if post.url %}
+            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="col-3"></div>
+</div>
