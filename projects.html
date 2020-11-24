@@ -6,13 +6,12 @@ permalink: /projects
 <div class="row">
     <div class="col-3"></div>
     <div class="col-6">
-        <center><h5>"If my doctor told me I had only six minutes to live, I wouldn't brood. I'd type a little faster." -Isaac Asimov</h5></center>
         <h3>Personal</h3>
         <hr></hr>
         <ul>
             {% for post in site.categories.personal %}
             {% if post.url %}
-            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+            <li><span>{{ post.date | date: "%m/%d/%Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <p><small> &emsp; {{ post.description }}</small></p></li>
             {% endif %}
             {% endfor %}
         </ul>
@@ -28,7 +27,7 @@ permalink: /projects
         <ul>
             {% for post in site.categories.school %}
             {% if post.url %}
-            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+            <li><span>{{ post.date | date: "%m/%d/%Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <p><small> &emsp; {{ post.description }}</small></p></li>
             {% endif %}
             {% endfor %}
         </ul>
