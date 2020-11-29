@@ -11,7 +11,10 @@ permalink: /projects
         <ul>
             {% for post in site.categories.personal %}
             {% if post.url %}
-            <li><span>{{ post.date | date: "%m/%d/%Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <p><small> &emsp; {{ post.description }}</small></p></li>
+            <li><span>{{ post.date | date: "%m/%d/%Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+                <pre><small>  Description: {{ post.description }}
+  Tech Stack: {{ post.stack }}
+                </small></pre></li>
             {% endif %}
             {% endfor %}
         </ul>
@@ -27,7 +30,10 @@ permalink: /projects
         <ul>
             {% for post in site.categories.school %}
             {% if post.url %}
-            <li><span>{{ post.date | date: "%m/%d/%Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <p><small> &emsp; {{ post.description }}</small></p></li>
+            <li><span>{{ post.date | date: "%m/%d/%Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+                <pre><small>  Description: {{ post.description }}
+  Tech Stack: {{ post.stack }}
+                </small></pre></li>
             {% endif %}
             {% endfor %}
         </ul>
