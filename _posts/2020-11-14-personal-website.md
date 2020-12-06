@@ -26,7 +26,7 @@ The organization of the source code is driven by Jekyll. Here is some insight in
 * blog, experience, index, and projects are the code of the four root pages of my site
 * remaining items are not of notable significance.
 
-![Layout](assets/quaini/img/personal-website-layout.png)
+<img src="/assets/quaini/img/personal-website-layout.png" class="img-thumbnail"/>
 
 I am now at the point with my site where I believe my focus should be on filling in its contents and prioritizing other projects. In the future, I plan to return for improvements. Some things that I think I should add to this site are:
 1. RSS feed.xml capabilities
