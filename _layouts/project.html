@@ -19,11 +19,13 @@
                     <div class="col-6">
                         <h3>{{ page.title }}</h3>
                         {{ page.date | date: '%B %d, %Y' }} by Ian Quain
+                        <img src={{ page.picture }} class=img-thumbnail>
                         <pre><i>
 Tech Stack: {{ page.stack }}
 Source Code: <a href={{ page.sourceurl }}>{{ page.source }}</a>
                         </i></pre>
                         {{ content }}
+                        <br></br>
                     </div>
                     <div class="col-3"></div>
                 </div>
