@@ -17,7 +17,7 @@ Before building this site, I had no experience with HTML and CSS but found learn
 
 The organization of the source code is driven by Jekyll. Here is some insight into the organization:
 * _drafts stores my unpublished blog and project drafts
-* _includes stores repeated code such as the navbar, footer, and social icons
+* _includes stores repeated elements  such as the navbar, footer, and social icons
 * _layouts stores the HTML structure of different types of pages on this site
 * _posts are where blog and project posts live
 * assets stores my CSS, Bootstrap 4, icons, and pictures
