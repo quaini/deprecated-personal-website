@@ -51,9 +51,9 @@ If you are trying to find all the accounts you have ever made, filter emails by 
 
 In January of 2019, a bug in Apple's Facetime app allowed attackers to [self-answer Facetime calls](https://www.zdnet.com/article/apple-facetime-exploit-found-by-14-year-old-playing-fortnite/) without user interaction allowing for secret surveillance.
 
-In May of 2019, Google announced a known venerability to their Titan Security Keys release in July of 2018 that allowed attackers [to take over users' devices and/or log into users' accounts](https://www.zdnet.com/article/google-to-replace-faulty-titan-security-keys/).
+In May of 2019, Google announced a known [vulnerability to their Titan Security Keys]((https://www.zdnet.com/article/google-to-replace-faulty-titan-security-keys/)) release in July of 2018 that allowed attackers to take over users' devices and/or log into users' accounts.
 
-In October or 2019, Security Research Labs revealed that Alexa and Google Home devices could be [leveraged to phish and eavesdrop on users](https://www.zdnet.com/article/alexa-and-google-home-devices-leveraged-to-phish-and-eavesdrop-on-users-again/).
+In October or 2019, Security Research Labs revealed that [Alexa and Google Home devices could be leveraged to phish and eavesdrop on users](https://www.zdnet.com/article/alexa-and-google-home-devices-leveraged-to-phish-and-eavesdrop-on-users-again/).
 
 What is the one thing in common with all of these vulnerabilities? The proprietary software was patched in updates or replaced by the owners. Staying up to date with your software and devices keeps you the most protected against attackers. For this reason, I recommend keeping your devices scanning and set for automatic updates so that you get patches as soon as possible.
 
