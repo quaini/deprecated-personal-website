@@ -1,10 +1,12 @@
 # quaini.io
-My personal website and blog built with Jekyll and Bootstrap 4.
+![Preview](/assets/quaini/img/personal-website.png)
+
+My personal website and blog built with Jekyll and Bootstrap 4. More about the organization and motivation for this site can be read [here](https://quaini.io/projects/personal/personal-website).
 
 ## License
 The code of quaini.io by Ian Quain is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) and made available on [GitHub](https://www.github.com/quaini/personal-website). Portions of the code are derived in whole or in part from other software, each with its own respective license appropriately referenced or included. Please contact Ian via email with any questions or concerns regarding usage of third-party software or code within this project.
 
-The content of quaini.io is under &copy; Copyright 2020, Ian Quain. The option to grant usage rights to others is under the discretion of the author.
+The content of quaini.io is under &copy; Copyright 2020-2021, Ian Quain. The option to grant usage rights to others is under the discretion of the author.
 
 ## Credits
 
