@@ -4,7 +4,7 @@ title: "Animator"
 date: 2020-4-15
 categories: projects school
 permalink: /:categories/:title
-description: Final project for Object-Oriented Design. A Model-View-Controller architecture designed to animations.
+description: Final project for Object-Oriented Design. A Model-View-Controller architecture designed to display animations.
 stack: Java, Java Swing, JUnit
 source: Only available upon request for prospective employers.
 sourceurl: ""
