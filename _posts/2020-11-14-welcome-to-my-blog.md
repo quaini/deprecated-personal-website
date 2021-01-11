@@ -16,4 +16,4 @@ That's what I'm hoping to get out of it. And if from time to time someone finds 
 
 It is fair to expect posts relating to not only my career as a programmer (if all goes as planned), but also posts relating to my current interests of chess, weight lifting, reading, and bullet journaling. Who knows where this will all go, but I am sure future me will only regret having not started earlier.
 
-If you've made it this far, thank you for staying with my rambling thoughts. Hopefully, by the time that you are reading this, there are plenty of posts for you to read next.
+If you've made it this far, thank you for staying with my rambling thoughts. Hopefully, by the time that you are reading this, there are plenty of posts for you to browse next.
