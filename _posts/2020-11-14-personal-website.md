@@ -11,7 +11,7 @@ sourceurl: "https://github.com/quaini/personal-website"
 picture: /assets/quaini/img/personal-website.png
 ---
 
-To boost success with my co-op search, I created a personal portfolio and blog website, quaini.io. While reading the documentation for Spacemacs, I found Tristan Hume's [personal site](thume.ca) where I first saw Github Pages's integration with Jekyll. At this moment in time, my static website is powered by Jekyll and hosted with Github Pages.
+To boost success with my co-op search, I created a personal portfolio and blog website, quaini.io. While reading the documentation for Spacemacs, I found Tristan Hume's [personal site](https://thume.ca/) where I first saw Github Pages's integration with Jekyll. At this moment in time, my static website is powered by Jekyll and hosted with Github Pages.
 
 Before building this site, I had no experience with HTML and CSS but found learning about these new tools to be quite enjoyable. In general, I believe the "what-I-want first how-I-am-going-to-do-it second" approach to programming projects is the best way to expand technical skills. That being said, I do want to shoutout Mike Dane's [Jekyll - Static Site Generator Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB) for giving me a starting point for creating my Jekyll-powered site. I intentionally chose not to use a prebuilt Jekyll theme; I felt that doing so would take away a lot of the work required for this site which would removce the learning opportunity and eventual satisfaction from completing it. Key resources used for this project are Bootstrap 4.5's framework and Zest Social Icons.
 
